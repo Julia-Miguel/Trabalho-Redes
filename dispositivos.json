@@ -1,0 +1,24 @@
+{
+    "la42": {
+        "nome": "lampada do quarto",
+        "tipo": "lampada",
+        "ip": "127.0.0.1",
+        "porta": 20002,
+        "configuracoes": {
+            "estado": "ligada",
+            "cor": "branco",
+            "intensidade": 50
+        }
+    },
+    "ac220": {
+        "nome": "ar quarto 2",
+        "tipo": "ar-condicionado",
+        "ip": "127.0.0.1",
+        "porta": 20003,
+        "configuracoes": {
+            "estado": "ligado",
+            "temperatura": 16,
+            "modo": "resfriamento"
+        }
+    }
+}
